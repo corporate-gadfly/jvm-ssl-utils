@@ -21,7 +21,7 @@
                          [org.clojure/tools.logging "1.3.1"]
                          [clj-commons/fs "1.6.312"]
                          [clj-time "0.15.2"]
-                         [commons-codec "1.20.0"]
+                         [commons-codec "1.21.0"]
                          [commons-io "2.21.0"]
                          [org.bouncycastle/bcpkix-jdk18on "1.83"]
                          [org.bouncycastle/bcpkix-fips "1.0.8"]
